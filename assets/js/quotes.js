@@ -71,6 +71,52 @@ export const quotes = [
     quote: `"Better three hours too soon than a minute too late."`,
     author: `William Shakespeare`,
   },
+  {
+    quote: `“The great dividing line between success and failure can be expressed in five words: 'I did not have time.'”`,
+    author: `Franklin Field`,
+  },
+  {
+    quote: `“Don't live the same year 75 times and call it a life.”`,
+    author: `Robin S. Sharma`,
+  },
+  {
+    quote: `“Half our time is spent trying to find something to do with the time we have rushed through life trying to save.” `,
+    author: `Will Rogers`,
+  },
+  {
+    quote: `“To do two things at once is to do neither.”`,
+    author: `Publius Syrus`,
+  },
+  {
+    quote: `“Concentrate all your thoughts upon the work in hand. The sun’s rays do not burn until brought to a focus.” `,
+    author: `Alexander Graham Bell`,
+  },
+  {
+    quote: `“We don't drift in good directions. We discipline and prioritize ourselves there.” `,
+    author: `Andy Stanley`,
+  },
+  {
+    quote: `“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”`,
+    author: `Abraham Lincoln`,
+  },
+  {
+    quote: `“Lack of direction, not lack of time, is the problem. We all have twenty-four-hour days.”`,
+    author: `Zig Ziglar`,
+  },
+  {
+    quote: `“The best time to start was last year. Failing that, today will do.”`,
+    author: `Chris Guillebeau`,
+  },
+  {
+    quote: `“You don’t have to see the whole staircase, just take the first step.”`,
+    author: `Martin Luther King, Jr`,
+  },
+  {
+    quote: `Perfection is attained by slow degrees; it requires the hand of time.”`,
+    author: `Voltaire`,
+  },
+  {
+    quote: `Perfection is attained by slow degrees; it requires the hand of time.”`,
+    author: `Anthony J.D'Angelo`,
+  },
 ];
-
-console.log(quotes.length);
