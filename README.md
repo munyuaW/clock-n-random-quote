@@ -91,4 +91,4 @@ No build tools or dependencies required - pure vanilla JavaScript!
 
 ## live demo
 
-You can view a live demo of the project [here](https://github.com/munyuaW/clock-n-random-quote/).
+You can view a live demo of the project [here](https://munyuaw.github.io/clock-n-random-quote/).
