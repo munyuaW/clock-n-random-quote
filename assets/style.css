@@ -21,12 +21,21 @@ body {
 
 .container {
   max-width: 1200px;
-  background: url(images/river4.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 2rem;
   border-radius: 2rem;
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .div {
